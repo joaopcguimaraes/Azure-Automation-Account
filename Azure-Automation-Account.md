@@ -10,7 +10,9 @@ As an example I will use two virtual machines named VM-01 and VM-02.
 The automation of the start and stop of the machines will be configured following the information below:
 
 • Start must occur every day at 8am
+
 • The stop(Deallocated) must occur every day at 10pm
+
 • Machines will start/stop when they have the Start-Stop-VMs tag
 ![image](https://user-images.githubusercontent.com/99050138/191828152-f6cf658f-e535-45c8-a2b0-b0e512c84425.png)
 ![image](https://user-images.githubusercontent.com/99050138/191839186-3fba484b-ec72-4185-bd9f-02088b66b6eb.png)
