@@ -28,7 +28,7 @@ The automation of the start and stop of the machines will be configured followin
 3- As we can see we have the resource group for Automation Account that is RG-Automation
 ![image](https://user-images.githubusercontent.com/99050138/191830420-0c37ea34-3036-4344-836d-0dac3ea5b5ea.png)
 
-4- Search for Automation Account then click.
+4- Search for Automation Account and click.
 ![image](https://user-images.githubusercontent.com/99050138/191830715-f064734c-f8cc-409a-ae80-1bbfb4308d2f.png)
 
 5- Click in create and follow the process below.
