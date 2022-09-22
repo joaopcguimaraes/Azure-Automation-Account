@@ -51,6 +51,7 @@ The automation of the start and stop of the machines will be configured followin
 • It is necessary to link the schedule we created to the runbook
 
 Start Runbook - startvms.ps1
+
 ![image](https://user-images.githubusercontent.com/99050138/191836163-b28e5af6-33d1-4be6-9575-69b93f7685b5.png)
 ![image](https://user-images.githubusercontent.com/99050138/191836347-b03af704-b308-4742-a101-7bc5233162c5.png)
 ![image](https://user-images.githubusercontent.com/99050138/191837252-ea7c8245-001f-4b1b-8041-c8ba0e1b08c4.png)
@@ -58,6 +59,7 @@ Start Runbook - startvms.ps1
 ![image](https://user-images.githubusercontent.com/99050138/191837420-001d2f7f-18f2-418c-9e16-deac52e5d138.png)
 
 Stop Runbook - stopvms.ps1
+
 ![image](https://user-images.githubusercontent.com/99050138/191836555-1236ba3d-490a-4f9b-bcac-fad837ec5e9e.png)
 ![image](https://user-images.githubusercontent.com/99050138/191836775-8a48c039-573f-44e0-90c1-e7b53aab5d74.png)
 ![image](https://user-images.githubusercontent.com/99050138/191837620-275435be-4847-486b-a496-65aae4154d79.png)
