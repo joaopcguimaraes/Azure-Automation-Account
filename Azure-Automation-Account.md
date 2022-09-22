@@ -50,6 +50,7 @@ The automation of the start and stop of the machines will be configured followin
 ![image](https://user-images.githubusercontent.com/99050138/191835095-bd864355-9ba5-4c4c-9fb2-2adafd43834b.png)
 
 9- Once created, enter the StarVMs runbook and click on EDIT. Copy and paste the contents of the startvms.ps1 and click in Publish(Yes).
+
 • It is necessary to link the schedule we created to the runbook
 
 Start Runbook - startvms.ps1
